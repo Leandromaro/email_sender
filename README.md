@@ -1,4 +1,5 @@
-# mailSender
+# email_sender
+
 
 ## Synopsis
 
